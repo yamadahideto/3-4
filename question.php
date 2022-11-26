@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <?php
   $name = $_POST["userName"];
     // 問題の選択肢を作成

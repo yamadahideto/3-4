@@ -1,0 +1,22 @@
+body{
+  background-color: gray;
+}
+
+h1,h2,h3,h4{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+p{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+form{
+  text-align: center;
+}
+
+
+
+
